@@ -1,2 +1,2 @@
 # EDA_heart_disease
-Exploratory Data Analysis of Heart Disease Risk Factors using Python.
+Exploratory Data Analysis of Heart Disease using Python.
